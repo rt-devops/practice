@@ -1,7 +1,7 @@
 
 ### Terraform ###
 # Local .terraform directories
-/Terraform/s3_bucket/.terraform/*
+**/.terraform/*
 
 # .tfstate files
 *.tfstate
