@@ -8,6 +8,7 @@
 *.tfstate.*
 *.terraform.lock.hcl
 *.txt
+*.vscode
 
 # Crash log files
 crash.log
